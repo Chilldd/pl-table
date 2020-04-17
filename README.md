@@ -72,7 +72,7 @@
 # pl-table表格的API
   https://github.com/livelyPeng/pl-table/wiki/pl-table-api
 
-# plx-table-grid表格的API（对列没有刚需的，没必要用这个，用上面的pl-table就行）
+# plx-table-grid表格的API（对列没有刚需的，没必要用这个，用上面的pl-table就行, 列没有几百列不需要用这个）
   https://github.com/livelyPeng/pl-table/wiki/plx-table-grid-APi
 
 # 实例文件（基础用法）
